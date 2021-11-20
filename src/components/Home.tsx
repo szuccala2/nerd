@@ -132,8 +132,7 @@ const FormDiv = styled.div`
     & > div > div > input {
         font-size: 1.3rem;
         padding: 5px 10px;
-        width: 10vw;
-        min-width: 180px;
+        width: 20vh;
     }
 
     & > .button {
