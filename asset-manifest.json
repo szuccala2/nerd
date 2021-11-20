@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nerd/static/css/main.5d028dbc.chunk.css",
+    "main.js": "/nerd/static/js/main.17246c81.chunk.js",
+    "main.js.map": "/nerd/static/js/main.17246c81.chunk.js.map",
+    "runtime-main.js": "/nerd/static/js/runtime-main.68c52e15.js",
+    "runtime-main.js.map": "/nerd/static/js/runtime-main.68c52e15.js.map",
+    "static/js/2.cfaec44f.chunk.js": "/nerd/static/js/2.cfaec44f.chunk.js",
+    "static/js/2.cfaec44f.chunk.js.map": "/nerd/static/js/2.cfaec44f.chunk.js.map",
+    "static/js/3.7fa33148.chunk.js": "/nerd/static/js/3.7fa33148.chunk.js",
+    "static/js/3.7fa33148.chunk.js.map": "/nerd/static/js/3.7fa33148.chunk.js.map",
+    "index.html": "/nerd/index.html",
+    "static/css/main.5d028dbc.chunk.css.map": "/nerd/static/css/main.5d028dbc.chunk.css.map",
+    "static/js/2.cfaec44f.chunk.js.LICENSE.txt": "/nerd/static/js/2.cfaec44f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68c52e15.js",
+    "static/js/2.cfaec44f.chunk.js",
+    "static/css/main.5d028dbc.chunk.css",
+    "static/js/main.17246c81.chunk.js"
+  ]
+}
