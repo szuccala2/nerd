@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/nerd/static/css/main.5d028dbc.chunk.css",
-    "main.js": "/nerd/static/js/main.f8f37900.chunk.js",
-    "main.js.map": "/nerd/static/js/main.f8f37900.chunk.js.map",
+    "main.js": "/nerd/static/js/main.64e06796.chunk.js",
+    "main.js.map": "/nerd/static/js/main.64e06796.chunk.js.map",
     "runtime-main.js": "/nerd/static/js/runtime-main.68c52e15.js",
     "runtime-main.js.map": "/nerd/static/js/runtime-main.68c52e15.js.map",
-    "static/js/2.cfaec44f.chunk.js": "/nerd/static/js/2.cfaec44f.chunk.js",
-    "static/js/2.cfaec44f.chunk.js.map": "/nerd/static/js/2.cfaec44f.chunk.js.map",
+    "static/js/2.784ab0e7.chunk.js": "/nerd/static/js/2.784ab0e7.chunk.js",
+    "static/js/2.784ab0e7.chunk.js.map": "/nerd/static/js/2.784ab0e7.chunk.js.map",
     "static/js/3.7fa33148.chunk.js": "/nerd/static/js/3.7fa33148.chunk.js",
     "static/js/3.7fa33148.chunk.js.map": "/nerd/static/js/3.7fa33148.chunk.js.map",
     "index.html": "/nerd/index.html",
     "static/css/main.5d028dbc.chunk.css.map": "/nerd/static/css/main.5d028dbc.chunk.css.map",
-    "static/js/2.cfaec44f.chunk.js.LICENSE.txt": "/nerd/static/js/2.cfaec44f.chunk.js.LICENSE.txt"
+    "static/js/2.784ab0e7.chunk.js.LICENSE.txt": "/nerd/static/js/2.784ab0e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68c52e15.js",
-    "static/js/2.cfaec44f.chunk.js",
+    "static/js/2.784ab0e7.chunk.js",
     "static/css/main.5d028dbc.chunk.css",
-    "static/js/main.f8f37900.chunk.js"
+    "static/js/main.64e06796.chunk.js"
   ]
 }
