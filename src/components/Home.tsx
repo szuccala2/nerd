@@ -2,6 +2,16 @@ import * as React from "react";
 import { useState } from "react";
 import styled from 'styled-components';
 
+const ExtDiv = styled.div`
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    vertical-align: middle;
+    height: 100vh;
+    background-color: grey;
+`;
+
 const Title = styled.h1 `
     position: absolute;
     font-size: 3rem;
@@ -11,6 +21,11 @@ const Title = styled.h1 `
     color: darkred;
     text-align: center;
     top: 23vh;
+
+    @media only screen and (max-width: 400px) {
+        font-size: 2.2rem;
+        top: 10;
+    }
 
     &.hovered {
         font-size: 3.2rem;
@@ -24,17 +39,12 @@ const Title = styled.h1 `
         @media only screen and (max-width: 600px) {
             font-size: 3rem;
         }
-    }
-`;
 
-const ExtDiv = styled.div`
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    vertical-align: middle;
-    height: 100vh;
-    background-color: grey;
+        @media only screen and (max-width: 400px) {
+            font-size: 2.2rem;
+            top: 10;
+        }
+    }
 `;
 
 const Shield = styled.img`
@@ -49,7 +59,7 @@ const Shield = styled.img`
     }
 
     &.clicked {
-        min-height: 500px;
+        min-height: 300px;
         height: 50vh;
     }
 `;
@@ -123,7 +133,7 @@ const FormDiv = styled.div`
         font-size: 1.3rem;
         padding: 5px 10px;
         width: 10vw;
-        min-width: 200px;
+        min-width: 180px;
     }
 
     & > .button {
